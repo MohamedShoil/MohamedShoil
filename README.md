@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-<h1>Hi, I'm Mohamed Ibrahim 👋</h1>
+<h1>MOHAMED IBRAHIM</h1>
 <p><strong>Back-end .NET Developer | C++ & Python Enthusiast</strong></p>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=MohamedShoil&style=flat&color=0078D4&label=PROFILE+VIEWS)
