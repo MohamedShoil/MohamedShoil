@@ -7,7 +7,7 @@
 <p><strong>Back-end .NET Developer | C++ & Python Enthusiast</strong></p>
 
 <div>
-  <a href="[https://www.facebook.com/مُحَمَّدُ بْنُ إبْرَاهِيْمَ](https://www.facebook.com/share/1C55oZiiYH/)" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.facebook.com/share/1C55oZiiYH/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://wa.me/201234567890" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://www.instagram.com/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://t.me/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
